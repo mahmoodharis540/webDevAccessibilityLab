@@ -19,7 +19,7 @@ footer {
 }
 
 header {
-  background-color: #263248;
+  background-color: black;
 }
 
 header h1 {
@@ -71,4 +71,10 @@ footer {
   font-size: 0.8em;
   text-align: center;
   font-style: italic;
+}
+
+
+.title
+{
+  color: white;
 }
